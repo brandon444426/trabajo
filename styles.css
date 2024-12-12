@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 20px; /* Ajusta este valor para controlar el desplazamiento */
+    background-color: #f0e68c; /* Color amarillo mostaza */
+   
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
